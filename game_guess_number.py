@@ -1,5 +1,4 @@
 import random
-
 def game():
     low = 1
     high = 100
